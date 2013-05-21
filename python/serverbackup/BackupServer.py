@@ -1,7 +1,7 @@
 ﻿#!/usr/bin/env python
 # -*- coding:UTF-8 -*-
 ''' Backup file server of file system
-@version: 1.0
+@version: Bate 1.0
 @author: conglin
 @contact: conglin.pro@gmail.com
 @see: http://www.conglin-site.com
