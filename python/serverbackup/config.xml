@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <!-- backup file list -->
+    <backup>
+        <!-- file url-->
+        <file>D:\project</file> <!-- windows url -->
+        <file>/www</file> <!-- unix url -->
+    </backup>
+    <!-- save folder url-->
+    <savefolder>E:\linshi</savefolder> <!-- windows url -->
+    <!-- log file url-->
+    <log>/linshi</log> <!-- unix url -->
+    <!-- send mail account setting-->
+    <mail>
+        <!-- smtp server-->
+        <host>smtp.gmail.com</host> <!-- gmail smtp -->
+        <!-- user name-->
+        <user>******@gmail.com</user> 
+        <!-- user password-->
+        <pwd>******</pwd>
+        <!-- send user info-->
+        <from>server@******.com</from>
+        <!-- receiver email address-->
+        <to>*******o@gmail.com</to>
+    </mail>
+</config>
